@@ -1,0 +1,21 @@
+{
+    "authorized_users": [
+        6523926728,
+        5265190519
+    ],
+    "spam_command": "/s",
+    "spam_message": "{mention}! Jishu Ke Aage Jhuk Ke Rehna pdegaaa",
+    "owner_id": 6949246888,
+    "spam_messages": [
+        "{mention}! Mu Me Lega Kyaa? \ud83c\udf4c\ud83e\udee6",
+        "{mention}! Gend Ne Konsa Kida h? \ud83d\udc8b",
+        "{mention}! Jhatu Jese Insaan Din Me 4 \ud83c\udf4c Bar Chudta He Mere Hath \ud83d\ude02",
+        "{mention}! Ayaan Mere Betee Jishu Ka Betaa Ayaan",
+        "Palang Kare Char Char Ayan Chude Ghar Ghar \ud83d\ude02\ud83d\ude02\ud83c\udf4c"
+    ],
+    "authorized_chats": [
+        -1003242443473,
+        -1003486728320,
+        -1002484179509
+    ]
+}
