@@ -1,7 +1,7 @@
 {
     "authorized_users": [
-        6523926728,
-        5265190519
+        5265190519,
+        6949246888
     ],
     "spam_command": "/s",
     "spam_message": "{mention}! Jishu Ke Aage Jhuk Ke Rehna pdegaaa",
@@ -14,8 +14,10 @@
         "Palang Kare Char Char Ayan Chude Ghar Ghar \ud83d\ude02\ud83d\ude02\ud83c\udf4c"
     ],
     "authorized_chats": [
-        -1003242443473,
         -1003486728320,
-        -1002484179509
-    ]
+        -1003242443473
+    ],
+    "user_secret_codes": {
+        "YB44BXE6840muxK6uNeGuw": 6949246888
+    }
 }
